@@ -1,5 +1,5 @@
 # Python-ML_Project
-House Price DSS
+House Price DSS |
 This project builds a decision model using Python and machine learning techniques to predict house prices based on diverse parameters such as location, age, rooms, and other relevant features. The model is trained on historical housing data to learn patterns and estimate prices for new inputs, supporting informed decisions in real estate markets.
 
 Features

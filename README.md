@@ -28,3 +28,12 @@ XGBoost
 matplotlib, seaborn (for visualization)
 
 VScode
+
+Results
+Performance on test data is shared in the repository, including scatter plots of predicted vs. actual prices and metrics that demonstrate model effectiveness. Example predictions showcase how the model responds to user inputs.
+
+Future Work
+Possible extensions include integrating more advanced models, additional features, automated data pipeline enhancements, and deployment as a web service.
+
+Acknowledgements
+Thanks to open-source contributors and public datasets(kaggle) that made this project possible.
